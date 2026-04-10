@@ -1,0 +1,5 @@
+aiogram>=3.4.0
+matplotlib
+aiofiles
+aiosqlite
+python-dotenv
